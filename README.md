@@ -1,3 +1,5 @@
+![Brown Modern Visit Our Website Video Instagram Post (1)](https://github.com/HvTung04/netflex/assets/144087649/2feb71df-f02c-464c-b57a-8e3d54ad1cd2)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -44,6 +46,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
 
 ### Code Splitting
 
